@@ -1,0 +1,9 @@
+# Ignore the following files and directories
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Tt]emp/
+/[Uu]serSettings/
+*.swp
+.idea/
+.vs/
+.vscode/
